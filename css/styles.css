@@ -82,7 +82,7 @@ body {
     justify-content: center;
     flex-direction: row;
     align-items: center;
-    margin-top: 10vh;
+    margin: 10vh 0;
 }
 
 #profile {
@@ -139,7 +139,7 @@ body {
 /* contact tab */
 
 footer {
-    margin-top: 15vh;
+    /* margin-top: 15vh; */
 }
 
 #contact-us {
