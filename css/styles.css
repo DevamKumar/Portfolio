@@ -138,10 +138,6 @@ body {
 
 /* contact tab */
 
-footer {
-    /* margin-top: 15vh; */
-}
-
 #contact-us {
     display: flex;
     flex-direction: row;
